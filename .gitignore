@@ -1,0 +1,6 @@
+Version Control Example/Library/
+Version Control Example/Temp/
+*.csproj
+*.sln
+Version Control Example/.vs/
+Version Control Example/obj/
